@@ -12,7 +12,7 @@ from Tabs import home, data, predict, visualise
 # Configure the app
 st.set_page_config(
     page_title = 'Stress Level Detector',
-    page_icon = 'heavy_exclamation_mark',
+    page_icon = '😫',
     layout = 'wide',
     initial_sidebar_state = 'auto'
 )
